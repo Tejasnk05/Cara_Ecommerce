@@ -1,2 +1,2 @@
-# Cara_Ecommerce
-Ecommerce Website 
+# Cara-Ecommerce
+An e-commerce website using HTML, CSS, JS 
